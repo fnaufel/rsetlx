@@ -1,0 +1,10 @@
+Package: rsetlx
+Title: Implement SETLX knitr engine
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fernando", "Naufel", , "fnaufel@gmail.com", role = c("aut", "cre"))
+Description: Provides knitr engine setlx (https://randoom.org/Software/SetlX/) to be used in code chunks.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
